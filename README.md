@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[！[Weitingchien的github統計信息]（https://github-readme-stats.vercel.app/api？username = Weitingchien）]（https://github.com/anuraghazra/github-readme-stats）
+[！[Weitingchien的github統計信息]（https://github-readme-stats.vercel.app/api？username = Weitingchien＆show_icons = true＆theme = dracula）]（https://github.com/anuraghazra/github-readme-stats）
 -->
