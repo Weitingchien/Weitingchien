@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [！[Weitingchien的github統計信息]（https://github-readme-stats.vercel.app/api？username = Weitingchien＆show_icons = true＆theme = dracula）]（https://github.com/anuraghazra/github-readme-stats）
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 -->
